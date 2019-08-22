@@ -1,0 +1,802 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bottom_bg.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\bottom_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_download.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_download.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\thumb.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\thumb.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voc_up.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_voc_up.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_folder.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_2_pressed.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_2_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pad_bufferbar_bg.9.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\player_pad_bufferbar_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_btn_bg.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\home_btn_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_default.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_default.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_0_pressed.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_0_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_bt_phone_back_normal.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\player_bt_phone_back_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_download.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_download.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voc_down_click.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_voc_down_click.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_0_normal.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_0_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_1_normal.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_1_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_2_normal.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_2_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_nomute.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\music_nomute.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_3_normal.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_3_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_media_play.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_media_play.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_search.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_image.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_image.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_bt_phone_back_press.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\player_bt_phone_back_press.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pad_bufferbar_bg.9.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\player_pad_bufferbar_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voc_up_click.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_voc_up_click.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_media_pause.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_media_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voc_down_click.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_voc_down_click.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\thumb.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\thumb.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_error.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_image.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_image.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_bg.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\music_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_0_pressed.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_0_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone_480_sound_mute.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\phone_480_sound_mute.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_arrow.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_arrow.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_3_normal.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_3_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_empty.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\ic_empty.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_menu_exit.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_1_normal.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_1_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_1_pressed.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_1_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_media_pause.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_media_pause.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voc_mute.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_voc_mute.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voc_mute.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_voc_mute.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pad_processbar_bg.9.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\player_pad_processbar_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\start.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pad_poptop_close.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\player_pad_poptop_close.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_share.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_1_pressed.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_1_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tips.9.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\tips.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_menu_exit.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_menu_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_mute.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\music_mute.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_bt_phone_vlist_press.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\player_bt_phone_vlist_press.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_trans.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\mm_trans.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_mute.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\music_mute.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_btn_bg.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\home_btn_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\image_pre.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\image_pre.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\titlebar.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\titlebar.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\select_no.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\select_no.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_bt_phone_vlist_press.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\player_bt_phone_vlist_press.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pad_notice_bottom_setting.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\player_pad_notice_bottom_setting.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_folder.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voc_up.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_voc_up.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voc_down.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_voc_down.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_pause.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\button_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone_480_sound_low.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\phone_480_sound_low.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pad_seekbar_bg.9.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\player_pad_seekbar_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_play.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\button_play.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_media_play.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_media_play.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_3_pressed.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_3_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_share.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_empty.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\ic_empty.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voc_down.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_voc_down.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lights.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\lights.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\image_next.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\image_next.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tips.9.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\tips.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_nomute.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\music_nomute.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_arrow.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_arrow.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pad_seekbar_silver_normal.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\player_pad_seekbar_silver_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone_480_sound_mute.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\phone_480_sound_mute.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_error.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voc_mute_click.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_voc_mute_click.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_slide_pause.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\ic_slide_pause.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_slide_pause.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\ic_slide_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pad_notice_bottom_setting.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\player_pad_notice_bottom_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voc_up_click.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_voc_up_click.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pad_processbar_bg.9.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\player_pad_processbar_bg.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_bg.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\music_bg.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_search.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_setting.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\button_setting.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_bt_phone_vlist_normal.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\player_bt_phone_vlist_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_setting.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\button_setting.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\image_next.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\image_next.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pad_poptop_close.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\player_pad_poptop_close.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_rotate.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_audio.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_audio.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_2_normal.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_2_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_rotate.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_voc_mute_click.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\icon_voc_mute_click.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_0_normal.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_0_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bottom_bg.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\bottom_bg.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_slide_start.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\ic_slide_start.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_2_pressed.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_2_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_slide_start.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\ic_slide_start.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lights.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\lights.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_bt_phone_back_normal.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\player_bt_phone_back_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_bt_phone_back_press.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\player_bt_phone_back_press.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone_480_sound_low.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\phone_480_sound_low.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_audio.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_audio.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_trans.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\mm_trans.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\start.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pad_seekbar_bg.9.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\player_pad_seekbar_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\titlebar.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\titlebar.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pad_seekbar_silver_normal.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\player_pad_seekbar_silver_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\image_pre.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\image_pre.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\menu_icon_3_pressed.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\menu_icon_3_pressed.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_bt_phone_vlist_normal.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\player_bt_phone_vlist_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone_480_sound_on.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\phone_480_sound_on.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_play.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\button_play.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone_480_sound_on.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\phone_480_sound_on.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_pause.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\button_pause.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_default.png",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\drawable-hdpi\\icon_default.png"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\select_no.png",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\drawable-hdpi\\select_no.png"
+    }
+]

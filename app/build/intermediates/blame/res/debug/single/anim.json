@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake_x.xml",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\anim\\shake_x.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\2036d9bb827ef41d5a3bf0d6089b4bc51d76095d\\output\\res\\anim\\fab_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\3b866979d2f672e72f9ae2b5e5daebc97de2fcde\\output\\res\\anim\\fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_in.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\2036d9bb827ef41d5a3bf0d6089b4bc51d76095d\\output\\res\\anim\\snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle.xml",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim.xml",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\anim\\anim.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_out.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\2036d9bb827ef41d5a3bf0d6089b4bc51d76095d\\output\\res\\anim\\snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake_y.xml",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\anim\\shake_y.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\2036d9bb827ef41d5a3bf0d6089b4bc51d76095d\\output\\res\\anim\\fab_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_in.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\3b866979d2f672e72f9ae2b5e5daebc97de2fcde\\output\\res\\anim\\snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim.xml",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\anim\\anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_out.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\3b866979d2f672e72f9ae2b5e5daebc97de2fcde\\output\\res\\anim\\snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake_x.xml",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\anim\\shake_x.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake_y.xml",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\anim\\shake_y.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\ecc892acd9366819facbcd840eea03d09b2c7f8b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\3b866979d2f672e72f9ae2b5e5daebc97de2fcde\\output\\res\\anim\\fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\MJCoder\\.android\\build-cache\\484c057f3f9d3b2fbbed7c0e58829d0c79c17026\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "C:\\Users\\MJCoder\\Desktop\\DroidDLNA-master\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\DroidDLNA\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle.xml",
+        "source": "E:\\Android\\workspace\\DroidDLNA\\app\\src\\main\\res\\anim\\cycle.xml"
+    }
+]
